@@ -1,0 +1,14 @@
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\bin\Debug\net8.0\EsArray.exe
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\bin\Debug\net8.0\EsArray.deps.json
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\bin\Debug\net8.0\EsArray.runtimeconfig.json
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\bin\Debug\net8.0\EsArray.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\bin\Debug\net8.0\EsArray.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.AssemblyInfoInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.AssemblyInfo.cs
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.csproj.CoreCompileInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\refint\EsArray.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\EsArray.genruntimeconfig.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsArray\EsArray\obj\Debug\net8.0\ref\EsArray.dll
